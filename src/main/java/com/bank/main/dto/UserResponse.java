@@ -1,7 +1,4 @@
 package com.bank.main.dto;
-
-
-
 public class UserResponse  {
 
     private String name;
