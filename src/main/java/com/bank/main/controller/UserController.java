@@ -1,5 +1,4 @@
 package com.bank.main.controller;
-
 import com.bank.main.dto.UserResponse;
 import com.bank.main.security.JwtTokenUtil;
 import com.bank.main.service.UserDetailsService;
@@ -17,5 +16,4 @@ public class UserController {
     private final JwtTokenUtil jwtTokenUtil;
     private final UserDetailsService userDetailsService;
     private final UserService userService;
-
 }

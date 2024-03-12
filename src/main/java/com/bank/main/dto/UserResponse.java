@@ -60,4 +60,3 @@ public class UserResponse  {
         this.account_type = account_type;
     }
 }
-
